@@ -1,2 +1,2 @@
-# Bullet-and-wall-Game
-it is my Bullet and wall Game 
+# p5.play-boilerplate
+Boiler plate for p5.play
